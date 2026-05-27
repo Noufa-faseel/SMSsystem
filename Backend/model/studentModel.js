@@ -12,3 +12,5 @@ const studentSchema =new mongoose.Schema({
 
 },{timestamps:true})
 
+
+export const
